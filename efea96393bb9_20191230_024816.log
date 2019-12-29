@@ -27,3 +27,6 @@
  2019-12-30 02:55:42,173 [INFO] (<ipython-input-7-c013bdf76e82>:33) > epoch: 0, dataset_split: 0, batch: 2699, progress: 6.13% loss: 0.100
  2019-12-30 02:55:58,182 [INFO] (<ipython-input-7-c013bdf76e82>:33) > epoch: 0, dataset_split: 0, batch: 2799, progress: 6.36% loss: 0.098
  2019-12-30 02:56:14,429 [INFO] (<ipython-input-7-c013bdf76e82>:33) > epoch: 0, dataset_split: 0, batch: 2899, progress: 6.59% loss: 0.096
+ 2019-12-30 02:56:30,172 [INFO] (<ipython-input-7-c013bdf76e82>:33) > epoch: 0, dataset_split: 0, batch: 2999, progress: 6.82% loss: 0.099
+ 2019-12-30 02:56:46,697 [INFO] (<ipython-input-7-c013bdf76e82>:33) > epoch: 0, dataset_split: 0, batch: 3099, progress: 7.04% loss: 0.099
+ 2019-12-30 02:57:03,184 [INFO] (<ipython-input-7-c013bdf76e82>:33) > epoch: 0, dataset_split: 0, batch: 3199, progress: 7.27% loss: 0.097
