@@ -1,5 +1,6 @@
 data/*
 saved_model/*
+.ipynb_checkpoints
 __pycache__/*
 !github_images/*
 !*.ipynb
