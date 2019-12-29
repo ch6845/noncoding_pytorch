@@ -1,0 +1,11 @@
+data/*
+saved_model/*
+!github_images/*
+!*.ipynb
+!*.R
+!*.py
+!*.sh
+!*.csh
+!*.md
+!*.doc
+!*.csv
