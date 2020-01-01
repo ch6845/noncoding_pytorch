@@ -1,0 +1,10 @@
+ 2019-12-30 03:18:06,073 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 99, progress: 0.23% loss: 0.113
+ 2019-12-30 03:18:34,033 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 199, progress: 0.45% loss: 0.102
+ 2019-12-30 03:19:02,203 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 299, progress: 0.68% loss: 0.100
+ 2019-12-30 03:19:31,433 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 399, progress: 0.91% loss: 0.099
+ 2019-12-30 03:20:00,436 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 499, progress: 1.13% loss: 0.099
+ 2019-12-30 03:20:29,891 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 599, progress: 1.36% loss: 0.099
+ 2019-12-30 03:20:59,117 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 699, progress: 1.59% loss: 0.099
+ 2019-12-30 03:21:28,072 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 799, progress: 1.82% loss: 0.100
+ 2019-12-30 03:21:57,605 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 899, progress: 2.04% loss: 0.099
+ 2019-12-30 03:22:27,037 [INFO] (<ipython-input-7-515f3a41de82>:32) > epoch: 0, dataset_split: 0, batch: 999, progress: 2.27% loss: 0.095

@@ -1,0 +1,4 @@
+deepsea epoch10 0.064
+rnn epoch4 0.082
+rnn(layer=3) epoch eppoch2 0.082
+textcnn epoch10 0.077 -> not appropriate model

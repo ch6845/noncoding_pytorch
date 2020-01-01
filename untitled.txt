@@ -1,0 +1,6 @@
+https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch/tree/master/Model_Seq2Seq_Attention
+
+
+https://github.com/codertimo/BERT-pytorch/tree/master/bert_pytorch/model
+
+https://pytorch.org/docs/stable/tensors.html
