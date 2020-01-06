@@ -1,7 +1,7 @@
 # Comprehensive Deep learning Framework for Annotating Non-coding Region
 
 
-# Model
+# Implemented Models
 Reference citation
 text-level RNN
 DeepSEA
@@ -22,6 +22,6 @@ Download pretrained model
 
 # Acknowledgements
 This repository was inspired by 
-https://github.com/PuYuQian/PyDeepSEA
-https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch
-https://github.com/huggingface/transformers
+* https://github.com/PuYuQian/PyDeepSEA
+* https://github.com/AnubhavGupta3377/Text-Classification-Models-Pytorch
+* https://github.com/huggingface/transformers

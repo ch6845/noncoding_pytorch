@@ -22,6 +22,7 @@ class DeepSEA_Dataset(Dataset):
             self.data_X=self.f[key_X]
             self.data_Y=self.f[key_Y]
         
+        #print(self.data_X.shape,self.data_Y.shape)
         if self.data_X.shape[0]!=self.data_Y.shape[0]:
             raise
 
